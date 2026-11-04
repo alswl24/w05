@@ -149,15 +149,16 @@ body {
     transform-origin: center center;
     width: max-content;
   }
-}
-.color-box.blue {
-  width: 300vw;
-  justify-self: end;
-}
 
-.color-box.yellow {
-  width: 300vw;
-  justify-self: start;
+  .color-box.blue {
+    width: 300vw;
+    justify-self: end;
+  }
+
+  .color-box.yellow {
+    width: 300vw;
+    justify-self: start;
+  }
 }
 
 /* 태블릿 (768px 이하) */
