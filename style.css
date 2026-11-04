@@ -144,10 +144,10 @@ body {
 
   .transform-group {
     position: absolute;
-    top: 52%; /* 상단 title 잘림 방지 위치 */
-    left: 50%; /* 정중앙 기준축 */
+    top: 44%; /* 상단 title 잘림 방지 위치 */
+    left: 53%; /* 정중앙 기준축 */
     margin: 0;
-    transform: translate(-46%, -60%) rotate(-45deg) scale(0.78);
+    transform: translate(-50%, -50%) rotate(-45deg) scale(0.78);
     transform-origin: center center;
     width: max-content;
   }
